@@ -148,5 +148,18 @@ body {
     /* Add any additional styles for the card names */
   }
 
-
+  .development-banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #f1c40f;
+    color: #333;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    z-index: 1000;
+    /* Add any additional styles as needed */
+  }
+  
   
